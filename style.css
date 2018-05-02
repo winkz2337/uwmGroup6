@@ -1,3 +1,6 @@
 body {background-color: powderblue;}
 h1   {color: blue;}
 p    {color: red;}
+img, object, embed, video {
+ max-width: 100%; 
+}
